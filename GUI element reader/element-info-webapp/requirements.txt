@@ -1,0 +1,6 @@
+easyocr
+opencv-python
+google-generativeai
+python-dotenv
+flask
+flask-cors
